@@ -26,7 +26,7 @@ ordered-set==3.1.1
 packaging==20.4
 parameterized==0.7.0
 pluggy==0.13.1
-py==1.9.0
+py==1.10.0
 pycodestyle==2.6.0
 pyparsing==2.4.7
 pyrsistent==0.16.0
@@ -37,7 +37,7 @@ PyYAML==5.3.1
 redis==2.10.6
 requests==2.20.0
 semver==2.8.1
-setuptools==47.3.2
+setuptools==65.5.1
 six==1.15.0
 stomp.py==4.1.22
 termcolor==1.1.0
